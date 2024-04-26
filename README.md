@@ -1,5 +1,5 @@
 <h2 align="center" font-weight="bold">
-🌟✨ Welcome to the realm of Vector! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I'm a senior FullStack engineer. I like to work with MERN/MEVN/MEAN stack and Django/Flask. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
+🌟✨ Welcome to the realm of Vector! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I'm a senior FullStack Developer. I like to work with MERN/MEVN/MEAN stack and Django/Flask. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
 </h2>
 <h1>💖 About Me 💖</h1>
 I want to turn your desired ideas into reality!!! </p>
